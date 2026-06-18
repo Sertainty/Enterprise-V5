@@ -9,7 +9,7 @@
 [![Status](https://img.shields.io/badge/Status-Coming%20Soon-f59e0b?style=for-the-badge)](https://www.sertainty.com/)
 [![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-4f46e5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://sertainty.github.io/knowledge-base/)
 [![Data Sheet](https://img.shields.io/badge/Data%20Sheet-View-0e9b8d?style=for-the-badge&logo=readthedocs&logoColor=white)](https://sertainty.github.io/Enterprise-V5/)
-
+[![Data Sheet PDF](https://img.shields.io/badge/Data%20Sheet-PDF-e8394c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sertainty.github.io/Enterprise-V5/Sertainty-Enterprise-v5.1-DataSheet.pdf)
 [![Website](https://img.shields.io/badge/Website-sertainty.com-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sertainty.com/)
 
 </div>
