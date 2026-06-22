@@ -8,6 +8,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Coming%20Soon-f59e0b?style=for-the-badge)](https://www.sertainty.com/)
 [![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-4f46e5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://sertainty.github.io/knowledge-base/)
+[![Docs](https://img.shields.io/badge/Docs-Read-334155?style=for-the-badge&logo=readthedocs&logoColor=white)](https://sertainty.github.io/docs/)
 [![Data Sheet](https://img.shields.io/badge/Data%20Sheet-View-0e9b8d?style=for-the-badge&logo=readthedocs&logoColor=white)](https://sertainty.github.io/Enterprise-V5/)
 [![Data Sheet PDF](https://img.shields.io/badge/Data%20Sheet-PDF-e8394c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sertainty.github.io/Enterprise-V5/Sertainty-Enterprise-v5.1-DataSheet.pdf)
 [![Website](https://img.shields.io/badge/Website-sertainty.com-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sertainty.com/)
@@ -52,6 +53,16 @@ The Enterprise Edition is **not yet available for download.** When it ships, bin
 
 To request early evaluation access or to be notified when v5.1 is released, contact **tech-support@sertainty.com**.
 
+In the meantime, you can preview the **[Enterprise Data Sheet](https://sertainty.github.io/Enterprise-V5/)** (or **[download the PDF](https://sertainty.github.io/Enterprise-V5/Sertainty-Enterprise-v5.1-DataSheet.pdf)**) for capabilities and specifications.
+
+## Documentation
+
+- **Documentation home:** https://sertainty.github.io/docs/
+- **Technology Guide:** https://sertainty.github.io/docs/technology-guide/
+- **Services Reference:** https://sertainty.github.io/docs/services-reference/
+- **Scripting Guide:** https://sertainty.github.io/docs/scripting-guide/
+- **Knowledge Base:** https://sertainty.github.io/knowledge-base/
+
 ## Licensing
 
 Downloading the SDK will not grant a right to use it in production. A separate Sertainty license is required:
@@ -76,6 +87,7 @@ See the `LICENSE` / EULA file for full terms. <!-- TODO: add an EULA file -->
 © Sertainty · UXP Technology · Protect your data at the source.
 
 </div>
+
 
 © Sertainty · UXP Technology · Protect your data at the source.
 
