@@ -88,7 +88,3 @@ See the `LICENSE` / EULA file for full terms. <!-- TODO: add an EULA file -->
 
 </div>
 
-
-© Sertainty · UXP Technology · Protect your data at the source.
-
-</div>
